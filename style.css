@@ -1,0 +1,27 @@
+*{
+    text-align: center;
+    background-color: black;
+}
+img{
+    height: 40rem;
+    border-radius: 10%;
+}
+h1{
+    color: aqua;
+}
+button {
+    background-color: black;
+    color: white;
+    border: 2px solid blueviolet;
+    border-radius: 999px; /* Makes it capsule-shaped */
+    height: 3rem;
+    width: 10rem;
+    cursor: pointer;
+    margin-bottom: 2rem;
+}
+
+button:hover {
+    background-color: whitesmoke;
+    color: black;
+    border: 2px solid blueviolet;
+} 
